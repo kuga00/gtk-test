@@ -13,4 +13,9 @@ public partial class MainWindow: Gtk.Window
 		Application.Quit ();
 		a.RetVal = true;
 	}
+
+	protected void OnButton1Clicked (object sender, EventArgs e)
+	{
+		label1.Text = "test ok";
+	}
 }

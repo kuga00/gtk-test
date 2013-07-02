@@ -30,16 +30,6 @@
             <property name="Y">48</property>
           </packing>
         </child>
-        <child>
-          <widget class="Gtk.Label" id="label1">
-            <property name="MemberName" />
-            <property name="LabelProp" translatable="yes">*****</property>
-          </widget>
-          <packing>
-            <property name="X">58</property>
-            <property name="Y">123</property>
-          </packing>
-        </child>
       </widget>
     </child>
   </widget>
